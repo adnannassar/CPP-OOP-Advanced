@@ -40,15 +40,6 @@ int main() {
 
     LinkedList<Medium *> list3{};
 
-    LinkedList<Medium *> *ptr = &list3;
-    std::cout<<ptr<<std::endl;
-    ptr++;
-    std::cout<<ptr<<std::endl;
-
-
-
-
-
     Audio *a = new Audio("It Means Nothing", 2007, "Stereophonics", 229);
     Bild *b = new Bild("Gebaeude FB Informatik", 2014, "Dortmund");
 

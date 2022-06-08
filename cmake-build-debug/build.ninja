@@ -72,11 +72,11 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 
 build cmake_object_order_depends_target_ClionCPP: phony || CMakeFiles/ClionCPP.dir
 
-build CMakeFiles/ClionCPP.dir/Buchverwaltung/Main.cpp.o: CXX_COMPILER__ClionCPP_Debug /Users/mohamad-adnan.nassar/Desktop/Mine/Studium/Bachelor/Inhalte/Adnan/Semester_3/Programmierkurs$ 2/Extras$ Collection$ of$ all$ content/C,C++,C#/ClionCPP/Buchverwaltung/Main.cpp || cmake_object_order_depends_target_ClionCPP
-  DEP_FILE = CMakeFiles/ClionCPP.dir/Buchverwaltung/Main.cpp.o.d
+build CMakeFiles/ClionCPP.dir/MedienVerwaltung/Main.cpp.o: CXX_COMPILER__ClionCPP_Debug /Users/mohamad-adnan.nassar/Desktop/Mine/Studium/Bachelor/Inhalte/Adnan/Semester_3/Programmierkurs$ 2/Extras$ Collection$ of$ all$ content/C,C++,C#/ClionCPP/MedienVerwaltung/Main.cpp || cmake_object_order_depends_target_ClionCPP
+  DEP_FILE = CMakeFiles/ClionCPP.dir/MedienVerwaltung/Main.cpp.o.d
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -std=gnu++14
   OBJECT_DIR = CMakeFiles/ClionCPP.dir
-  OBJECT_FILE_DIR = CMakeFiles/ClionCPP.dir/Buchverwaltung
+  OBJECT_FILE_DIR = CMakeFiles/ClionCPP.dir/MedienVerwaltung
 
 
 # =============================================================================
@@ -86,7 +86,7 @@ build CMakeFiles/ClionCPP.dir/Buchverwaltung/Main.cpp.o: CXX_COMPILER__ClionCPP_
 #############################################
 # Link the executable ClionCPP
 
-build ClionCPP: CXX_EXECUTABLE_LINKER__ClionCPP_Debug CMakeFiles/ClionCPP.dir/Buchverwaltung/Main.cpp.o
+build ClionCPP: CXX_EXECUTABLE_LINKER__ClionCPP_Debug CMakeFiles/ClionCPP.dir/MedienVerwaltung/Main.cpp.o
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2
   OBJECT_DIR = CMakeFiles/ClionCPP.dir
   POST_BUILD = :
