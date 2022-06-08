@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja "/Users/mohamad-adnan.nassar/Desktop/Mine/Studium/Bachelor/Inhalte/Adnan/Semester_3/Programmierkurs 2/Extras Collection of all content/C,C++,C#/ClionCPP"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/mohamad-adnan.nassar/Desktop/Mine/Studium/Bachelor/Inhalte/Adnan/Semester_3/Programmierkurs 2/Extras Collection of all content/C,C++,C#/ClionCPP/cmake-build-debug

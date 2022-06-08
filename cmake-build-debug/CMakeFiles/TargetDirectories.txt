@@ -1,0 +1,3 @@
+/Users/mohamad-adnan.nassar/Desktop/Mine/Studium/Bachelor/Inhalte/Adnan/Semester_3/Programmierkurs 2/Extras Collection of all content/C,C++,C#/ClionCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mohamad-adnan.nassar/Desktop/Mine/Studium/Bachelor/Inhalte/Adnan/Semester_3/Programmierkurs 2/Extras Collection of all content/C,C++,C#/ClionCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mohamad-adnan.nassar/Desktop/Mine/Studium/Bachelor/Inhalte/Adnan/Semester_3/Programmierkurs 2/Extras Collection of all content/C,C++,C#/ClionCPP/cmake-build-debug/CMakeFiles/ClionCPP.dir
